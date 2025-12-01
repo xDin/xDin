@@ -8,7 +8,7 @@
 ### OT System - Full Work-Order & Quoting Platform *(ongoing project, used in a real small business)*
 End-to-end platform for managing work orders, customers, quoting, file uploads, analytics, and automated notifications.  
 Built with Next.js, TypeScript, Prisma, PostgreSQL, and Vercel.  
-Used daily in a small **windows, glass, and shades installation business** (residential and commercial).  
+Used daily in a small **windows, glass, and shades business** (residential and commercial).  
 Originally developed for my professional residency and maintained with occasional updates as the business needs grow.
 
 # 💻 Tech Stack
