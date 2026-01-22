@@ -1,9 +1,9 @@
 # 👋🏼 Hello! I'm Diego
-💻 Computer Systems Engineer (Web & Systems specialization)
-⚙️ Building and maintaining production-grade software used by real businesses
-🧪 Unreasonable love for engineering and solving real problems with web technologies
-🌵 Mexican from Sonora, open to working abroad
-🎓 Recently graduated (Dec 2025)
+💻 Computer Systems Engineer (Web & Systems specialization)  
+⚙️ Building and maintaining production-grade software used by real businesses  
+🧪 Unreasonable love for engineering and solving real problems with web technologies  
+🌵 Mexican from Sonora, open to working abroad  
+🎓 Recently graduated (Dec 2025)  
 
 # 🚀 Projects
 ### OT System - Full Work-Order & Quoting Platform *(ongoing project, used in a real small business)*
