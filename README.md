@@ -6,19 +6,18 @@
 🎓 Recently graduated (Dec 2025)  
 
 # 🚀 Projects
-### Tulip - B2B Multi-Tenant SaaS Platform *(in development, deployed at usetulip.app)*
-Multi-tenant platform for small businesses to manage their operations — built from scratch as both a real product and a portfolio piece.  
-Features custom session-based auth (no third-party auth providers), RBAC, multi-tenancy, team invites, billing integration, and a modular architecture designed to support multiple business verticals.  
-Currently in active development — onboarding is manual and invite-only while the platform matures.  
-Built with Next.js, TypeScript, Drizzle ORM, PostgreSQL (Neon), Stripe, and Vercel.  
-Private repo — available to employers upon request.
+### Tulip — B2B Multi-Tenant SaaS Platform (in development · usetulip.app)
+A reusable SaaS foundation where business-specific modules plug into a shared core — designed so that multiple distinct products can be built and deployed on the same infrastructure.
+Core includes custom session-based auth, RBAC, team invites, seat-based billing, and a module registry. Currently pre-launch while first modules are finalized.
+Next.js App Router · TypeScript · Drizzle ORM · PostgreSQL (Neon) · Stripe · Vercel
+Private repo — happy to share access with any employer or recruiter, just reach out!
 
-### OT System - Full Work-Order & Quoting Platform *(ongoing, used in production)*
+### OT System — Full Work-Order & Quoting Platform *(ongoing, used in production)*
 End-to-end platform for managing work orders, customers, quoting, file uploads, analytics, and automated notifications.  
 Built with Next.js, TypeScript, Prisma, PostgreSQL, and Vercel.  
 Used daily in a small **windows, glass, and shades business** (residential and commercial).  
 Originally developed for my professional residency and maintained with occasional updates as the business needs grow.  
-Private repo — available to employers upon request.
+Private repo — happy to share access with any employer or recruiter, just reach out!
 
 # 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
